@@ -1,0 +1,9 @@
+
+spacy
+scikit-learn
+pandas
+numpy
+matplotlib
+flask
+python-dotenv
+requests

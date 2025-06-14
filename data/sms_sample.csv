@@ -1,0 +1,16 @@
+phone,body,timestamp
++96812345678,"Transaction: OMR 25.50 at SuperMarket on 2024-06-14",2024-06-14T10:30:00
++96887654321,"Debit: OMR 150.00 from Gas Station on 14/06/2024",2024-06-14T11:15:00
++96811111111,"You sent OMR 75.25 to John Doe on 2024-06-14",2024-06-14T12:00:00
++96822222222,"Payment of OMR 500.00 to Hotel Booking completed",2024-06-14T13:45:00
++96833333333,"Purchase: OMR 89.99 at Electronics Store - 2024-06-14",2024-06-14T14:20:00
++96812345678,"Transaction: OMR 12.75 at Coffee Shop on 2024-06-13",2024-06-13T09:15:00
++96887654321,"Debit: OMR 45.00 from Pharmacy on 13/06/2024",2024-06-13T16:30:00
++96811111111,"You sent OMR 200.00 to Jane Smith on 2024-06-13",2024-06-13T18:45:00
++96822222222,"Transaction: OMR 1250.50 at Luxury Store on 2024-06-12",2024-06-12T15:00:00
++96833333333,"Debit: OMR 67.80 from Restaurant on 12/06/2024",2024-06-12T19:30:00
++96812345678,"Purchase: OMR 35.40 at Bookstore - 2024-06-11",2024-06-11T11:20:00
++96887654321,"You sent OMR 100.00 to Ali Hassan on 2024-06-11",2024-06-11T14:10:00
++96811111111,"Transaction: OMR 8.50 at Bus Station on 2024-06-10",2024-06-10T07:45:00
++96822222222,"Debit: OMR 299.99 from Online Store on 10/06/2024",2024-06-10T20:15:00
++96833333333,"Payment of OMR 85.00 to Taxi Service completed",2024-06-10T22:30:00

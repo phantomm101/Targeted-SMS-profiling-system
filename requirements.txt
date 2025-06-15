@@ -1,4 +1,5 @@
-
+kafka-python==2.0.2
+elasticsearch==8.11.1
 spacy
 scikit-learn
 pandas

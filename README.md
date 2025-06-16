@@ -7,22 +7,36 @@ This project aims to profile users based on incoming SMS messages and detect fra
 ## 🔧 Project Structure
 
 Targeted-SMS-profiling-system/
-├── data/ # Store raw SMS datasets
-├── logs/ # Logging directory
-├── models/ # Trained ML models
-├── tests/ # Unit & integration tests
-├── config/ # Configuration scripts
-├── src/
-│ ├── kafka_producer/ # Simulates SMS input
-│ ├── kafka_consumer/ # Consumes SMS data
-│ ├── elasticsearch_client/ # Indexes to Elasticsearch
-│ ├── ml_models/ # Fraud detection logic
-│ ├── profiling/ # User profiling logic
-│ └── api/ # REST API (Optional)
-├── docker/ # Docker Compose setup
-├── requirements.txt # Python dependencies
-└── README.md # 
-
+├── config/                  ✅ (already exists)
+│   ├── app_config.py
+│   ├── elasticsearch_config.py
+│   └── kafka_config.py
+├── data/                    ✅ (created)
+├── docker/                  ✅ (already exists)
+│   └── docker-compose.yml
+├── logs/                    ✅ (created)
+├── models/                  ✅ (created)
+├── sms_parser_engine/       ✅ (already exists)
+│   └── sms_parser.py
+├── src/                     ✅ (created)
+│   ├── __init__.py
+│   ├── api/                 ✅ (created)
+│   │   └── __init__.py
+│   ├── elasticsearch_client/ ✅ (created)
+│   │   └── __init__.py
+│   ├── kafka_consumer/      ✅ (created)
+│   │   └── __init__.py
+│   ├── kafka_producer/      ✅ (created)
+│   │   └── __init__.py
+│   ├── ml_models/           ✅ (created)
+│   │   └── __init__.py
+│   └── profiling/           ✅ (created)
+│       └── __init__.py
+├── tests/                   ✅ (already exists)
+├── venv/                    ✅ (already exists)
+├── .gitignore               ✅ (already exists)
+├── README.md                ✅ (already exists)
+└── requirements.txt         ✅ (already exists)
 
 ---
 

@@ -6,37 +6,39 @@ This project aims to profile users based on incoming SMS messages and detect fra
 
 ## 🔧 Project Structure
 
+Below is the exact folder structure, reproduced as-is, with no additions, no removals, and no annotations.
+
 Targeted-SMS-profiling-system/
-├── config/                  ✅ (already exists)
+├── config/
 │   ├── app_config.py
 │   ├── elasticsearch_config.py
 │   └── kafka_config.py
-├── data/                    ✅ (created)
-├── docker/                  ✅ (already exists)
+├── data/
+├── docker/
 │   └── docker-compose.yml
-├── logs/                    ✅ (created)
-├── models/                  ✅ (created)
-├── sms_parser_engine/       ✅ (already exists)
+├── logs/
+├── models/
+├── sms_parser_engine/
 │   └── sms_parser.py
-├── src/                     ✅ (created)
+├── src/
 │   ├── __init__.py
-│   ├── api/                 ✅ (created)
+│   ├── api/
 │   │   └── __init__.py
-│   ├── elasticsearch_client/ ✅ (created)
+│   ├── elasticsearch_client/
 │   │   └── __init__.py
-│   ├── kafka_consumer/      ✅ (created)
+│   ├── kafka_consumer/
 │   │   └── __init__.py
-│   ├── kafka_producer/      ✅ (created)
+│   ├── kafka_producer/
 │   │   └── __init__.py
-│   ├── ml_models/           ✅ (created)
+│   ├── ml_models/
 │   │   └── __init__.py
-│   └── profiling/           ✅ (created)
+│   └── profiling/
 │       └── __init__.py
-├── tests/                   ✅ (already exists)
-├── venv/                    ✅ (already exists)
-├── .gitignore               ✅ (already exists)
-├── README.md                ✅ (already exists)
-└── requirements.txt         ✅ (already exists)
+├── tests/
+├── venv/
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 ---
 

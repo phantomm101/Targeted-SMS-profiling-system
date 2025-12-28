@@ -6,8 +6,6 @@ This project aims to profile users based on incoming SMS messages and detect fra
 
 ## 🔧 Project Structure
 
-Below is the exact folder structure, reproduced as-is, with no additions, no removals, and no annotations.
-
 Targeted-SMS-profiling-system/
 ├── config/
 │   ├── app_config.py

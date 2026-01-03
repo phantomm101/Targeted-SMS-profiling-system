@@ -6,6 +6,7 @@ This project aims to profile users based on incoming SMS messages and detect fra
 
 ## 🔧 Project Structure
 
+```text
 Targeted-SMS-profiling-system/
 ├── config/
 │   ├── app_config.py

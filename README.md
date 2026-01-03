@@ -38,7 +38,7 @@ Targeted-SMS-profiling-system/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 🚀 Technologies Used

@@ -1,3 +1,8 @@
 # Build folder and log file
 build/
 build.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
